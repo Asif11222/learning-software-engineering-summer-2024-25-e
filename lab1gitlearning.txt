@@ -1,0 +1,7 @@
+1.step 1 open github
+2.step 2 create a repository named "learning-software-engineering-summer-2024-25-e"
+3.step 3 create a local folder on pc like github12918
+4.install git bash on pc and open gitbash in folder github12918
+5.Now copy the repository from github quick setup https
+6.open git bash in github12918 and give command "git clone paste"
+7
