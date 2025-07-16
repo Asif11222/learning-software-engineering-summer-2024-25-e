@@ -4,4 +4,15 @@
 4.install git bash on pc and open gitbash in folder github12918
 5.Now copy the repository from github quick setup https
 6.open git bash in github12918 and give command "git clone paste"
-7
+7.a folder is created named "learning-software-engineering-summer-2024-25-e"
+8.go to the folder unhide a file named .git
+9.open a txt file in" learning software eng" and write something and save file name"lab1gitlearning.txt"
+
+10.open git bash command "git add lab1learning.txt" enter
+ command "git status" enter
+ command "git commit -m"abc" enter
+ command "git config --global user.email "shariarasif420@gmail.com" enter
+ command " git config --global user.name"Asif1122" enter
+ command " git commit -m "1stlab"
+ command " git status" enter
+ command " git push" enter 
