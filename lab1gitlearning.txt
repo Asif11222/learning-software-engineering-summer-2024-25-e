@@ -16,3 +16,5 @@
  command " git commit -m "1stlab"
  command " git status" enter
  command " git push" enter 
+
+now after that if i want to change again the txt file just go through "add" "commit" "push" step 
